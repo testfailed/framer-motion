@@ -21,7 +21,7 @@
         "paths": {
             "@framer": ["../src/index"],
             "@framer/*": ["../src/*"],
-            "three": ["node_modules/three"]
+            "three": ["../node_modules/three"]
         },
         "strictNullChecks": true,
         "noImplicitAny": true,
